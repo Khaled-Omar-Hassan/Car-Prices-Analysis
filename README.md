@@ -4,5 +4,4 @@ Dataset: "Public".
 Utilize: 
 1- Python (Pandas, Plotly, Streamlit). 
 to perform end to end EDA on Car Prices Data.
-Report created on streamlit app, visit via link --> [Car-Pricees-Analysis-Report](https://khaled-omar-car-prices-analysis.streamlit.app/
-/)
+Report created on streamlit app, visit via link --> [Car-Pricees-Analysis-Report](https://khaled-omar-car-prices-analysis.streamlit.app/)
